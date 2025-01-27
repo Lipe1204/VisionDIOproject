@@ -1,0 +1,16 @@
+a screenshot of a wall of images
+
+"{
+  "apim-request-id": "a2e4a1a4-8146-4206-a949-0a9c9a75f4c6",
+  "content-length": "161",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a screenshot of a wall of images",
+    "confidence": 0.6605725288391113
+  },
+  "metadata": {
+    "width": 1080,
+    "height": 1080
+  }
+}"
