@@ -1,0 +1,12 @@
+64=1
+e=25-9
+2ª=16
+E
+192=4=DL=8
+dist,focal
+Centro:((0,0);e=C=4=0,8
+Relaçãodecoordenadas:
+5
+0
+A(-5,0)Ax(5,0)F1(-4,0)
+B,(€,-3)Bx(0,3)F(4,0)
