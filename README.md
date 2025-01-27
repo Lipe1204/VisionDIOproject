@@ -1,0 +1,1 @@
+uma experiencia interessante, testei algumas fotos e recursos deescritos no tutorial e no curso, usei algumas fotos minhas para analize e fiquei surpreendido com o resultado, estou adorando esse mundo de IA, sou estudando de eng de controle e automação e sinto que essa area vai revolucionar minha carreira.
